@@ -1,4 +1,4 @@
-# Bsides Aarhus 2020 website
+# Bsides Aarhus 2026 website
 
 ## Code & Infrastructure requriments
 * Pages written in markdown.
