@@ -1,4 +1,4 @@
-# Venue Planning 2020
+# Venue Planning 2026
 
 ## Venue Requriments (Wish list)
 * Room for 125-150 people with good projectors.
