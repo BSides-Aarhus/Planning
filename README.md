@@ -1,3 +1,3 @@
-# BSides Aarhus 2020 Planning  
+# BSides Aarhus 2026 Planning  
 
-Repository for planning documentation of BSides Aarhus 2020
+Repository for planning documentation of BSides Aarhus 2026
