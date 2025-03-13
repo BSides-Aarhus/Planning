@@ -70,7 +70,7 @@ Speaker Benefits:
 * A stage to present your topic, in English or Danish, to an audience of passionate individuals.
 * Free entry to Bsides Aarhus.
 
-As a community-focused and non-profit event, we currently do not cover expenses or offer honorariums to our speakers, but in special cases we might be able to provide some assistance for speakers. Please contact us at info@bsidesaarhus.dk.
+As a community-focused and non-profit event, we currently do not cover expenses or offer honorariums to our speakers, but in special cases we might be able to provide some assistance for speakers. Please contact us at [info@bsidesaarhus.dk](mailto:info@bsidesaarhus.dk).
 
 Important Bsides Aarhus dates:
 * Call for Presentations opens: xx month year
