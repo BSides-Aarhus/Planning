@@ -1,6 +1,6 @@
 # Call for Presentations Bsides Aarhus
 
-## Call for papers Opens:
+## Call for presentation Opens:
 xx month year timezone
 
 ## Call Closes:
@@ -76,7 +76,7 @@ Important Bsides Aarhus dates:
 * Call for Presentations opens: xx month year
 * Deadline for submission: xx month year
 * Notification of acceptance: xx month year
-* Deadline for final paper submission: xx month year
+* Deadline for final presentation submission: xx month year
 * Date of the Bsides Aarhus conference: 14th of June 2025
 
 All submissions and questions about submissions should be emailed to [info@bsidesaarhus.dk](mailto:info@bsidesaarhus.dk)
