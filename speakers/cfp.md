@@ -1,10 +1,10 @@
 # Call for Presentations Bsides Aarhus
 
 ## Call for presentation Opens:
-xx month year timezone
+10 April 2025 CET
 
 ## Call Closes:
-xx month year timezone
+20 May 2025 CET
 
 ## Who should apply?
 Bsides Aarhus is a hands-on, community-organized technical security and hacking event. This is the chance for you to share knowledge, ideas and failures and demonstrate what you've been up to! We encourage talk submissions by both newbies and veterans, from people passionate about security in all walks of life. If we don't know who you are, or if you've never spoken on stage before - we want you, so go ahead and submit a talk!
