@@ -1,4 +1,4 @@
- BSides Aarhus 2026 - Sponsorship Contract
+ BSides Aarhus 2025 - Sponsorship Contract
 ===========================
 
 **Background**
