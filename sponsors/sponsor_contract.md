@@ -79,7 +79,7 @@ Regardless of the amount sponsored by your organization, the following benefits
 are included in the package:
 
 -   Each sponsor will be advertised as such on the BSides Aarhus website
-    <https://2020.bsidesaar.dk> together with a link to the sponsors’ web site.
+    <https://2025.bsidesaarhus.dk> together with a link to the sponsors’ web site.
 
 -   Each sponsor will be provided with two conference tickets.
 
@@ -93,7 +93,7 @@ are included in the package:
     limited so contact BSides Aarhus organizers early for more information.)
 
 -   Each sponsor will be listed with logo on all electronic presentations as
-    well as screens around the venue if available. Company logos are to be provided in SVG, EPS, AI or similar format so that the logo can be scaled properly. Logos are to be sent to [info@bsidesaar.dk](mailto:info@bsidesaar.dk) no later than 14 days before the conference to be included in the above stated materials. Each sponsor will also be individually mentioned and thanked during the beginning and the end of the conference.
+    well as screens around the venue if available. Company logos are to be provided in SVG, EPS, AI or similar format so that the logo can be scaled properly. Logos are to be sent to [info@bsidesaar.dk](mailto:info@bsidesaarhus.dk) no later than 14 days before the conference to be included in the above stated materials. Each sponsor will also be individually mentioned and thanked during the beginning and the end of the conference.
 
 **DISCLAIMER**:  
 The BSides Aarhus organizers reserve the right to accept or decline sponsors at their own discretion.  
@@ -170,4 +170,4 @@ Payments are to be paid no later than 14 days after signing this contract for th
 Sincerely,
 
 The BSides Aarhus Organizers   
-Mail - info@bsidesaar.dk
+Mail - info@bsidesaarhus.dk
