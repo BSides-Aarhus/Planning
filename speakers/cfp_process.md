@@ -1,6 +1,6 @@
 # Call for Papers (CFP) Process for BSides Aarhus 2025
 
-1. Initial submissions must be sent to info@bsidesaar.dk no later than the 1st of May 2025.
+1. Initial submissions must be sent to info@bsidesaarhus.dk no later than the 1st of May 2025.
 2. Submission must include the speaker information as stated on the CFP page on the conference site.
 3. Submission must as a general rule include one or more topics as stated on the CFP page on the conference site.
 4. Speaker to be notified of acceptance: 14th of May 2025 (14 days after submission deadline).
